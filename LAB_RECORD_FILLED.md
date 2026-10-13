@@ -88,6 +88,12 @@ Design and develop an intelligent personalized recommendation system using GPT-4
 
 ---
 
+## Implementation Details:
+- **GitHub Repository Link:** [https://github.com/Kishore20a/GPT-EX-4](https://github.com/Kishore20a/GPT-EX-4)
+- **LinkedIn Post Link:** `<LinkedIn Post Link>`
+
+---
+
 ## Theoretical Background & Core Concepts:
 
 ### 1. What is a Recommendation System?

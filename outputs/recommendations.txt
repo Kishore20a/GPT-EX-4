@@ -1,0 +1,56 @@
+============================================================
+     PERSONALIZED RECOMMENDATION SYSTEM REPORT
+     Course: 24CS2506 - Building Applications using GPT-4
+============================================================
+
+1. USER PROFILE
+--------------------------------------------------
+Name         : Arun
+Age          : 20
+Background   : Computer Science
+Interests    : Artificial Intelligence, Python
+Skill Level  : Beginner
+Preference   : Practical learning
+Goal         : Learn AI
+No. of Items : 5
+
+2. PREFERENCE ANALYSIS
+--------------------------------------------------
+Primary Interest   : Artificial Intelligence
+Secondary Interest : Python
+Skill Level        : Beginner
+Goal               : Learn AI
+Preference         : Practical learning
+Important Constraint: Tailored for Beginner level in Computer Science focusing on Practical learning
+
+3. RANKED RECOMMENDATIONS
+--------------------------------------------------
+Rank   | Recommendation                   | Score   
+--------------------------------------------------
+1      | Python for AI                    | 95%     
+2      | Machine Learning Basics          | 92%     
+3      | Generative AI                    | 88%     
+4      | Data Science with Python         | 85%     
+5      | Deep Learning Basics             | 80%     
+
+4. RECOMMENDATION DETAILS & EXPLANATIONS
+--------------------------------------------------
+* Resource : Python for AI (Score: 95%)
+  Reason   : Matches Python and AI interests with hands-on practical focus.
+  Details  : 'Python for AI' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Matches Python and AI interests with hands-on practical focus.
+
+* Resource : Machine Learning Basics (Score: 92%)
+  Reason   : Suitable foundation for beginner AI learners.
+  Details  : 'Machine Learning Basics' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Suitable foundation for beginner AI learners.
+
+* Resource : Generative AI (Score: 88%)
+  Reason   : Relevant to current AI interests and modern LLM application building.
+  Details  : 'Generative AI' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Relevant to current AI interests and modern LLM application building.
+
+* Resource : Data Science with Python (Score: 85%)
+  Reason   : Combines Python and data analysis required for real-world AI pipelines.
+  Details  : 'Data Science with Python' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Combines Python and data analysis required for real-world AI pipelines.
+
+* Resource : Deep Learning Basics (Score: 80%)
+  Reason   : Natural progression after mastering basic machine learning concepts.
+  Details  : 'Deep Learning Basics' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Natural progression after mastering basic machine learning concepts.

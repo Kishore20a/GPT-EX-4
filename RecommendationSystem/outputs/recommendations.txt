@@ -1,0 +1,56 @@
+============================================================
+     PERSONALIZED RECOMMENDATION SYSTEM REPORT
+     Course: 24CS2506 - Building Applications using GPT-4
+============================================================
+
+1. USER PROFILE
+--------------------------------------------------
+Name         : Arun
+Age          : 20
+Background   : Computer Science
+Interests    : Artificial Intelligence, Python
+Skill Level  : Beginner
+Preference   : Practical learning
+Goal         : Learn AI
+No. of Items : 5
+
+2. PREFERENCE ANALYSIS
+--------------------------------------------------
+Primary Interest   : Artificial Intelligence
+Secondary Interest : Python
+Skill Level        : Beginner
+Goal               : Learn AI
+Preference         : Practical learning
+Important Constraint: Tailored for Beginner level in Computer Science focusing on Practical learning
+
+3. RANKED RECOMMENDATIONS
+--------------------------------------------------
+Rank   | Recommendation                   | Score   
+--------------------------------------------------
+1      | Artificial Intelligence          | 98%     
+2      | Machine Learning                 | 95%     
+3      | Deep Learning                    | 93%     
+4      | Generative AI                    | 90%     
+5      | Computer Vision                  | 86%     
+
+4. RECOMMENDATION DETAILS & EXPLANATIONS
+--------------------------------------------------
+* Resource : Artificial Intelligence (Score: 98%)
+  Reason   : Directly prioritizes core AI focus based on user feedback.
+  Details  : 'Artificial Intelligence' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Directly prioritizes core AI focus based on user feedback.
+
+* Resource : Machine Learning (Score: 95%)
+  Reason   : Core foundation for advanced AI concepts, replacing general web development.
+  Details  : 'Machine Learning' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Core foundation for advanced AI concepts, replacing general web development.
+
+* Resource : Deep Learning (Score: 93%)
+  Reason   : Specialized neural network architecture aligned with practical AI goals.
+  Details  : 'Deep Learning' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Specialized neural network architecture aligned with practical AI goals.
+
+* Resource : Generative AI (Score: 90%)
+  Reason   : Matches cutting-edge generative models and LLM application development.
+  Details  : 'Generative AI' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Matches cutting-edge generative models and LLM application development.
+
+* Resource : Computer Vision (Score: 86%)
+  Reason   : Hands-on AI visual intelligence domain replacing non-AI topics.
+  Details  : 'Computer Vision' was selected for Arun because it directly supports their goal to 'Learn AI' and matches their specified interests [Artificial Intelligence, Python]. As a Beginner-level resource with practical orientation, it provides immediate hands-on value. Core justification: Hands-on AI visual intelligence domain replacing non-AI topics.
